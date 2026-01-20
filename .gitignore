@@ -2,3 +2,9 @@ __pycache__/
 *.pyc
 .env
 .venv/
+
+# Build artifacts
+build/
+dist/
+*.spec
+*.egg-info/

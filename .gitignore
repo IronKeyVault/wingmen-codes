@@ -1,1 +1,12 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+
+# Build artifacts
+build/
+dist/
+*.spec
+*.egg-info/
+
 wingpy_codes_projects/

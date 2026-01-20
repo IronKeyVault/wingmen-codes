@@ -1,6 +1,0 @@
-Metadata-Version: 2.4
-Name: wingpy-codes
-Version: 0.1.0
-Summary: Wingpy on FMC
-Author-email: Kasper <kel@wingmen.dk>
-Requires-Dist: wingpy

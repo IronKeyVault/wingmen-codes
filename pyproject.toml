@@ -1,6 +1,0 @@
-[project]
-name = "wingpy-codes"
-version = "0.1.0"
-description = "Wingpy on FMC"
-authors = [{ name = "Kasper", email = "kel@wingmen.dk" }]
-dependencies = ["wingpy"]

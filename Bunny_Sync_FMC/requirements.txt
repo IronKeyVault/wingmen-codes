@@ -1,0 +1,3 @@
+wingpy
+requests
+python-dotenv
